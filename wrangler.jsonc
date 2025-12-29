@@ -9,12 +9,12 @@
 	"compatibility_date": "2025-12-13",
 	"routes": [
 		{
-			"pattern": "<YOUR_DOMAIN>/*",
-			"zone_name": "<YOUR_ZONE>"
+			"pattern": "cc.istanu.qzz.io/*",
+     		"zone_name": "istanu.qzz.io"
 		},
 		{
-			"pattern": "*.<YOUR_DOMAIN>/*",
-			"zone_name": "<YOUR_ZONE>"
+			"pattern": "cc.istanu.qzz.io/*",
+     		"zone_name": "istanu.qzz.io"
 		}
 	],
 	"placement": {
